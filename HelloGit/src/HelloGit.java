@@ -4,5 +4,6 @@ public class HelloGit {
 		System.out.println("Hello World");
 		System.out.println("HyeonJin Gwak");
 		System.out.println("20192719");
+		System.out.println("Computer Software Engineering");
 	}
 }
